@@ -86,19 +86,11 @@
     text-align: left;
     color: #2f2533;
 }
-.hair-profile-nav span.active {
-    color: #70009f;
-}
-.tablinks.hair-tab-first.active span {
-    background: #70009f;
-    color: #fff;
-    border-color: #70009f;
-}
+
 .btn-tab-block {
     margin-top: 43px;
 }
 .btn-tab-block button {
-    background-color: #70009f;
     padding: 12px 75px;
 }
 @media(max-width: 660px) {
